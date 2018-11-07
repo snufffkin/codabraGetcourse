@@ -76,8 +76,9 @@
     justify-content: space-between;
 }
 .items {
-    width: 127px;
-    height: 127px;
+    width: 97px;
+    height: 97px;
+    padding: 12px;
 }
 .it1 {
     background: url(image/item1\ \(1\).svg)
@@ -93,4 +94,13 @@
 }
 .it5 {
     background: url(image/item1\ \(3\).svg)
+}
+.items p {
+    margin-top: 43px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 15px;
+    font-size: 16px;
+    color: #FFFFFF;
 }
